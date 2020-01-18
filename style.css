@@ -1,0 +1,22 @@
+.top{height: 35px;
+    font-family: serif;
+    font-size: 40PX;
+    padding: 30px;
+    text-align: center;
+    margin-top: -20px;
+    font-family: fantasy;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(cta.jpg);
+    color: lightblue;}
+
+  h1{text-align: center;
+    font-style: oblique;
+    font-family: cursive;}
+
+  #room{padding: 30px;
+    display: inline;
+    margin-left: 120px;
+    font-size: 20px;
+    font-family: sans-serif;}
+  /* #room{float: right;display: inline;margin-right: 50px} */
+
+  .female{margin-top: 20%}
